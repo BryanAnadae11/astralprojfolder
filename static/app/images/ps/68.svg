@@ -1,0 +1,25 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #345d9d;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="1218.97" y="3434.97" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="1218.97" y="3434.97" width="44" height="44" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA0NCA0NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSIzNS43NDciIHgyPSI4LjI1MyIgeTI9IjQ0IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzRiNzViNyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0Yjc1YjciIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Прямоугольник_504" data-name="Прямоугольник 504" class="cls-1" d="M1226.97,3434.98h28a8,8,0,0,1,8,8v28a8,8,0,0,1-8,8h-28a8,8,0,0,1-8-8v-28A8,8,0,0,1,1226.97,3434.98Z" transform="translate(-1218.97 -3434.97)"/>
+  <path id="Фигура_623" data-name="Фигура 623" class="cls-2" d="M1249.07,3466.28h-15.11a0.734,0.734,0,0,1-.58-0.29,0.715,0.715,0,0,1-.13-0.63l1.18-4.42-0.86.32a0.757,0.757,0,0,1-.75-0.15,0.742,0.742,0,0,1-.21-0.73l0.72-2.71a0.741,0.741,0,0,1,.46-0.5l1.82-.66,2.52-9.43a0.738,0.738,0,0,1,.71-0.54h5.68a0.734,0.734,0,0,1,.58.29,0.715,0.715,0,0,1,.13.63l-1.64,6.15,1.45-.53a0.75,0.75,0,0,1,.57.02,0.783,0.783,0,0,1,.38.42,0.944,0.944,0,0,1,.04.5l-0.7,2.63a0.707,0.707,0,0,1-.46.49l-2.46.9-0.85,3.18h8.48a0.749,0.749,0,0,1,.58.29,0.715,0.715,0,0,1,.13.63l-0.97,3.6A0.738,0.738,0,0,1,1249.07,3466.28Zm-14.16-1.46h13.6l0.57-2.13h-7.91l-0.04.16-0.62-.16h-0.64v-0.17l-0.16-.05,0.16-.61v-0.64h0.17l1.05-3.92a0.729,0.729,0,0,1,.45-0.5l2.47-.9,0.26-.98-1.5.54a0.725,0.725,0,0,1-.96-0.87l1.76-6.59h-4.16l-2.47,9.25a0.766,0.766,0,0,1-.46.5l-1.83.67-0.26.98,0.86-.31a0.725,0.725,0,0,1,.96.87Z" transform="translate(-1218.97 -3434.97)"/>
+</svg>

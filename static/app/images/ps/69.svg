@@ -1,0 +1,51 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #8a92b2;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        opacity: 0.47;
+      }
+
+      .cls-3 {
+        opacity: 0.68;
+      }
+
+      .cls-4 {
+        opacity: 0.83;
+      }
+
+      .cls-5 {
+        opacity: 0.73;
+      }
+
+      .cls-6 {
+        opacity: 0.52;
+      }
+    </style>
+    <filter id="filter" x="769" y="3241" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="769" y="3241" width="44" height="44" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA0NCA0NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI0LjE4NSIgeTE9IjQ0IiB4Mj0iMzkuODE1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzc3N2U5YyIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM3NzdlOWMiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Прямоугольник_504" data-name="Прямоугольник 504" class="cls-1" d="M776.986,3241h28a8,8,0,0,1,8,8v28a8,8,0,0,1-8,8h-28a8,8,0,0,1-8-8v-28A8,8,0,0,1,776.986,3241Z" transform="translate(-769 -3241)"/>
+  <g id="Группа_10" data-name="Группа 10">
+    <path id="Фигура_552" data-name="Фигура 552" class="cls-2" d="M783.838,3263.23h0.049v0.05h-0.1v-0.05h0.05Zm7.531-12.61c-0.05,0-.05-0.05-0.05-0.1h0.05v0.1Zm-7.556,12.63v-0.01c-1.248.56,2.932-1.36,7.42-3.44a0.116,0.116,0,0,0,.074-0.05q0.018,0,0,.03v7.88a0.132,0.132,0,0,0,.012.1c-0.024.04-.049,0-0.061-0.01-0.112-.06-0.221-0.13-0.328-0.2-2.348-1.42-7.056-4.26-7.056-4.26Zm14.963,1.47h0.012a0.2,0.2,0,0,1-.036.07c-2.239,3.22-4.477,6.45-6.715,9.66-0.232.34-.475,0.67-0.706,1.01a0.053,0.053,0,0,1-.012-0.04v-6.21l1.521-.92c1.97-1.19,3.941-2.37,5.9-3.56C798.752,3264.74,798.764,3264.73,798.776,3264.72Z" transform="translate(-769 -3241)"/>
+    <path id="Фигура_556" data-name="Фигура 556" class="cls-3" d="M791.331,3275.46l-0.012.04h-0.012a0.143,0.143,0,0,0-.037-0.07l-7.445-10.71,7.494,4.51a0.075,0.075,0,0,1,.024.07v5.98Z" transform="translate(-769 -3241)"/>
+    <path id="Фигура_555" data-name="Фигура 555" class="cls-4" d="M798.8,3263.23l0.012,0.01-1.788,1.08-5.621,3.39a0.268,0.268,0,0,0-.061.04,0.042,0.042,0,0,1-.036-0.05v-7.79a0.443,0.443,0,0,1,.012-0.12c0.012-.05.049-0.04,0.085-0.03,0.158,0.08.328,0.15,0.486,0.23l1.424,0.66c0.415,0.18.815,0.38,1.229,0.57s0.827,0.38,1.24.57c0.353,0.16.718,0.33,1.071,0.49s0.718,0.34,1.071.5l0.839,0.39A0.058,0.058,0,0,0,798.8,3263.23Z" transform="translate(-769 -3241)"/>
+    <path id="Фигура_554" data-name="Фигура 554" class="cls-5" d="M791.319,3259.78v-9.12a0.146,0.146,0,0,1,.012-0.1q3.705,6.285,7.4,12.54a0.58,0.58,0,0,1,.073.14c-0.171-.06-0.329-0.15-0.487-0.22-0.195-.09-0.4-0.19-0.6-0.28-0.121-.06-0.254-0.11-0.376-0.17-0.207-.1-0.414-0.19-0.62-0.29-0.124-.05-0.246-0.11-0.366-0.17l-0.8-.37c-0.133-.06-0.267-0.13-0.413-0.19l-0.585-.26c-0.121-.05-0.243-0.11-0.364-0.17l-0.8-.38c-0.133-.06-0.267-0.12-0.413-0.18l-0.585-.26c-0.133-.07-0.255-0.13-0.389-0.19-0.231-.11-0.462-0.22-0.705-0.32C791.331,3259.78,791.319,3259.78,791.319,3259.78Z" transform="translate(-769 -3241)"/>
+    <path id="Фигура_553" data-name="Фигура 553" class="cls-6" d="M791.331,3250.55v0.01a1.176,1.176,0,0,1,.012.21v8.96a0.124,0.124,0,0,1-.085.08c-0.256.13-.5,0.24-0.754,0.35-0.353.16-1.07,0.5-1.07,0.5l-1.278.59-1.047.49-1.252.58-1.071.5s-0.583.26-.863,0.39a0.107,0.107,0,0,1-.073.03,0.05,0.05,0,0,1-.025-0.01l0.329-.56c0.632-1.07,1.252-2.13,1.886-3.19,0.668-1.15,1.35-2.29,2.019-3.43,0.62-1.06,1.253-2.11,1.874-3.17,0.449-.77.911-1.54,1.362-2.31a0.1,0.1,0,0,0,.024-0.06h0.012A0.047,0.047,0,0,0,791.331,3250.55Z" transform="translate(-769 -3241)"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0b90b;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="769" y="3632.47" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="769" y="3632.47" width="44" height="44" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA0NCA0NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHgxPSI0LjE4NSIgeTE9IjQ0IiB4Mj0iMzkuODE1IiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2Q0YjEyMiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNkNGIxMjIiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiLz4KPC9zdmc+Cg=="/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Прямоугольник_504" data-name="Прямоугольник 504" class="cls-1" d="M776.986,3632.48h28a8,8,0,0,1,8,8v28a8,8,0,0,1-8,8h-28a8,8,0,0,1-8-8v-28A8,8,0,0,1,776.986,3632.48Z" transform="translate(-769 -3632.47)"/>
+  <path id="Фигура_681" data-name="Фигура 681" class="cls-2" d="M786.921,3652.85l4.078-4.07,4.081,4.08,2.373-2.38L791,3644.03l-6.452,6.45,2.374,2.38m-6.422,1.67,2.373-2.37,2.373,2.37-2.373,2.37Zm6.422,1.68,4.078,4.07,4.081-4.08,2.374,2.38h0L791,3665.03l-6.452-6.45h0l2.377-2.37m9.83-1.68,2.373-2.37,2.373,2.37-2.373,2.37Zm-3.347,0h0L791,3652.12l-1.779,1.78h0l-0.2.2-0.422.42h0l2.406,2.4,2.4-2.39h0" transform="translate(-769 -3632.47)"/>
+</svg>

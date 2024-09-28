@@ -1,0 +1,25 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1ba27a;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="328" y="3434.97" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="328" y="3434.97" width="44" height="44" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA0NCA0NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIyMiIgeDI9IjQ0IiB5Mj0iMjIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjMjdiODhkIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzI3Yjg4ZCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Прямоугольник_504" data-name="Прямоугольник 504" class="cls-1" d="M335.986,3434.98h28a8,8,0,0,1,8,8v28a8,8,0,0,1-8,8h-28a8,8,0,0,1-8-8v-28A8,8,0,0,1,335.986,3434.98Z" transform="translate(-328 -3434.97)"/>
+  <path id="Фигура_623" data-name="Фигура 623" class="cls-2" d="M352.5,3453.99v-2.98h7.061v-4.49H340.943v4.49H348v2.98c-5.463.24-9.587,1.31-9.587,2.61s4.124,2.37,9.587,2.61v9.48h4.5v-9.47c5.506-.24,9.673-1.32,9.673-2.62S358,3454.22,352.5,3453.99Zm-2.2,4.33c-5.843,0-10.579-.93-10.579-2.06,0-.99,3.548-1.81,8.288-2.02v3.38h4.5v-3.38c4.782,0.2,8.372,1.02,8.372,2.02C360.871,3457.39,356.136,3458.32,350.3,3458.32Z" transform="translate(-328 -3434.97)"/>
+</svg>

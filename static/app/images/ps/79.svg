@@ -1,0 +1,25 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="44" height="44" viewBox="0 0 44 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c2a633;
+        filter: url(#filter);
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+    <filter id="filter" x="328" y="3632.47" width="44" height="44" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="328" y="3632.47" width="44" height="44" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iNDQiIGhlaWdodD0iNDQiIHZpZXdCb3g9IjAgMCA0NCA0NCI+CiAgPGRlZnM+CiAgICA8c3R5bGU+CiAgICAgIC5jbHMtMSB7CiAgICAgICAgZmlsbDogdXJsKCNsaW5lYXItZ3JhZGllbnQpOwogICAgICB9CiAgICA8L3N0eWxlPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJsaW5lYXItZ3JhZGllbnQiIHkxPSIyMiIgeDI9IjQ0IiB5Mj0iMjIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZGJiZDQ0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2RiYmQ0NCIgc3RvcC1vcGFjaXR5PSIwIi8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI0NCIgaGVpZ2h0PSI0NCIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Прямоугольник_504" data-name="Прямоугольник 504" class="cls-1" d="M335.986,3632.48h28a8,8,0,0,1,8,8v28a8,8,0,0,1-8,8h-28a8,8,0,0,1-8-8v-28A8,8,0,0,1,335.986,3632.48Z" transform="translate(-328 -3632.47)"/>
+  <path id="Фигура_686" data-name="Фигура 686" class="cls-2" d="M342.8,3662.58v-4.03h2.366v-9.19h-2.355v-3.87h0.342c3.185,0,6.348.01,9.534-.01a5.277,5.277,0,0,1,1.946.43,7.588,7.588,0,0,1,4.8,5.41,11.91,11.91,0,0,1-.111,6.08,6.672,6.672,0,0,1-5.185,5.01,6.18,6.18,0,0,1-1.483.18h-9.466c-0.122-.01-0.244-0.01-0.388-0.01h0Zm7.188-4.04c0.542,0,1.062.03,1.581-.01a2.36,2.36,0,0,0,1.737-.86,4.768,4.768,0,0,0,.9-1.58,8.157,8.157,0,0,0-.033-3.87,4.579,4.579,0,0,0-1-2.06,2.187,2.187,0,0,0-1.084-.77,12.2,12.2,0,0,0-2.1-.03v9.18Z" transform="translate(-328 -3632.47)"/>
+</svg>
